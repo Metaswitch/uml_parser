@@ -2,6 +2,7 @@
 authors = ["Chris Swindle <christopher.swindle@metaswitch.com>"]
 name = "uml_parser"
 version = "0.1.0"
+license = "Apache-2.0"
 
 [dependencies]
 bodyparser = "0.7.0"
