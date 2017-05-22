@@ -1,0 +1,11 @@
+[package]
+authors = ["Chris Swindle <christopher.swindle@metaswitch.com>"]
+name = "uml_parser"
+version = "0.1.0"
+
+[dependencies]
+bodyparser = "0.7.0"
+iron = "0.5.1"
+log = "0.3.6"
+nom = "2.0.0"
+regex = "0.1.77"

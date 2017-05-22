@@ -1,0 +1,19 @@
+participant test1
+note position
+    quick test
+end note
+actor test
+
+loop 5
+    par test
+        note position
+            inside par
+        end note
+    else
+        note position
+            else clause
+        end note
+    end
+end
+activate test activate
+deactivate test deactivate
