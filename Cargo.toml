@@ -10,4 +10,3 @@ keywords = ["uml", "parser"]
 [dependencies]
 log = "0.3.6"
 nom = "2.0.0"
-regex = "0.1.77"
