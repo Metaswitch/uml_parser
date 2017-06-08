@@ -1,8 +1,11 @@
 [package]
 authors = ["Chris Swindle <christopher.swindle@metaswitch.com>"]
 name = "uml_parser"
+description = "PlantUML parser for rust"
 version = "0.1.0"
 license = "Apache-2.0"
+repository = "https://github.com/Metaswitch/uml_parser"
+keywords = ["uml", "parser"]
 
 [dependencies]
 bodyparser = "0.7.0"
