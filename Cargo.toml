@@ -8,5 +8,5 @@ repository = "https://github.com/Metaswitch/uml_parser"
 keywords = ["uml", "parser"]
 
 [dependencies]
-log = "0.3.6"
+log = "0.4.6"
 nom = "2.0.0"
