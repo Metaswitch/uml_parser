@@ -9,4 +9,4 @@ keywords = ["uml", "parser"]
 
 [dependencies]
 log = "0.4.6"
-nom = "2.0.0"
+nom = "6.2.0"
